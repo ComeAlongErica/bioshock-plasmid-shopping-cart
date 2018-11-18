@@ -15,6 +15,7 @@ purchase.
 for checkout.
 
 ● Provide a way for the user to check out and view their cart.
+
 ● Give the subtotal, sales tax, and the total.
 
 ● If the user is paying in cash, ask for the amount tendered and provide
